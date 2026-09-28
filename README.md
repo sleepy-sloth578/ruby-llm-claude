@@ -42,6 +42,7 @@ Run any lesson's `main.rb` from the repo root:
 ruby 01-llm-call/main.rb
 ruby 02-tokens/main.rb
 ruby 03-structured-output/main.rb
+ruby 04-resume-matcher/main.rb
 ruby 05-prompt-engineering/main.rb
 ruby 06-react/main.rb
 ```
